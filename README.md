@@ -1,1 +1,1 @@
-computes bernoulii numbers
+Some interesting computation problems
